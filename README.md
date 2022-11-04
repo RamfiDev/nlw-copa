@@ -32,6 +32,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Calendário da Copa serve para mostrar as datas/horas que terão jogos.
 
+[🔗 Clique aqui para dar uma olhada](https://ramfidev.github.io/nlw-copa/)
+
 ## 📧 Contato
 
 ramfidev@pm.me
